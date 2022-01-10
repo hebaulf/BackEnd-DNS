@@ -1,5 +1,8 @@
 # Back End - DNS
-I followed the guide instructions and signed up for the freeDNS service at 1984. Here are my screenshots: <br><br>
+I followed the guide instructions and signed up for the freeDNS service at 1984.  
+Below are screenshots of the process: 
+
+<br>
 
 ### Adding DNS zone
 <p align="center">
